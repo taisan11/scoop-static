@@ -1,0 +1,8 @@
+{
+    "version": "2.13.15",
+    "description":"お絵かきソフト",
+    "homepage":"firealpaca.com",
+    "license":"identifier",
+    "url": "https://firealpaca.com/download/win64",
+    "extract_dir": "cowsay-psh-master",
+}
